@@ -1,0 +1,28 @@
+body {
+    background: #d0e7fa;
+}
+.container {
+    width: 100%;
+    padding: 30px;
+    margin-top: 40px;
+    margin-left: 0px;
+    
+}
+#navbarMenu {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+
+
+#conteudoCentro {
+    background:#a9bbc9;
+    padding-left: 100px;
+    width: 80%;
+}
+
+
+#propagandas {
+    background:#707a83;
+    margin-right: 10px;
+}
